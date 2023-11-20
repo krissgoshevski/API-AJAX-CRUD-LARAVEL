@@ -5,7 +5,9 @@
 
 **2. TEST CASE FOR GET DATA WITH Fetch method response WITH JAVASCRIPT
 
-**NOTE**Please, use POSTMAN for testing...
+**3. StudentController for all methods 
+
+**NOTE**    Please, use POSTMAN API of Thunder Client API for testing...
 
 
 
